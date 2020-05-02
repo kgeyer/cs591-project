@@ -1,0 +1,1 @@
+use colormap create use color available display move window get effect fine basically program work user input want set result get colormap window get default colormap like window application get colormap suggestion thanks david

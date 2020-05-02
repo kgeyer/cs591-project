@@ -1,0 +1,1 @@
+currently use external order drive dc motor direction use software control language programming however afraid thus question software control reliable understand port vary duty cycle set high first desire duty cycle set low

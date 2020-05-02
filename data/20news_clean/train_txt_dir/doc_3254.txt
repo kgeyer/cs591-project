@@ -1,0 +1,1 @@
+write experiment sun xterm window machine use get first character line display last display rest line next line display condition check try effect condition happen set space set check department computer science ny internet

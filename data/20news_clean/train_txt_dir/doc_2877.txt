@@ -1,0 +1,1 @@
+create graphic program use widget use xlib routine install graphics obtain display window variable object one widget problem occur button press menu select graphic one try move graphic context button nothing change call thank help

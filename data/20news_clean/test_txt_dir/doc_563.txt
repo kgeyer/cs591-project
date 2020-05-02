@@ -1,0 +1,1 @@
+anyone know access andor display multiple page mode still maintain byte per pixel memory organization example appreciate thanks scott

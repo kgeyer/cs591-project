@@ -1,0 +1,1 @@
+hus someone program send key event another window must appear window use package example get program execute read something echo something send key event window get thanks advance

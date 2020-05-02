@@ -1,0 +1,1 @@
+andy write one question throw guy class project need design build power supply follow spec current limit voltage must stay within value ac less decide kind circuit must know allow first case use second case better use detect output limit current thomas

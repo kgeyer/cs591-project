@@ -1,0 +1,1 @@
+scsi card dos system require separate device driver load memory scsus device also true os thanks

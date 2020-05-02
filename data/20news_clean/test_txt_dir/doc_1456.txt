@@ -1,0 +1,1 @@
+article write write scsi card dos system require separate device driver load memory scsus device see also bio use hard drive directly dos drive problem ide standard matter software driver often allow better performance though use want use device besides hard disk disk always among require driver scsus hard drive dos drive already hardware software driver

@@ -1,0 +1,1 @@
+anybody know good package available ibm look something like dec good support different output device like terminal try also distribution ibm implementation work require output device ibm familiar graphic expect good solution

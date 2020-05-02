@@ -1,0 +1,1 @@
+help try program vga get work follow routine mode get need program mode care many color someone take code help write new procedure replace work great thanks code currently mode procedure begin mov ah mov al int end end procedure begin end david

@@ -1,0 +1,1 @@
+hello folk see error try modify key map line add line start file line start look like following think problem conflict function key already function move etc thing see error run xterm anyone suggest way modify key map specifically motif window manager complain realize bit stupid time implement time learn implement

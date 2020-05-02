@@ -1,0 +1,1 @@
+hello problem hope someone help build mit source apply patch get think building easy install everything start nothing happen screen keyboard machine seem hang another machine find run well tell xterm experiment mouse press hit xterm session get back guess device problem find correct device yet get rom please help able run client sun send output machine thanks advance

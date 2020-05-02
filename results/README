@@ -1,0 +1,7 @@
+This directory contains the experimental results 
+
+1. 'best-keywords-table.docx' - create table of topic keywords for qualitative comparison
+2. 'coherence.pdf' - graphical comparison of topic coherence scores
+3. 'dmfvi_results.pkl' - LDA VI model outputs saved as a pickle file
+4. 'nvlda_results.pkl' - AVITM model outputs saved as a pickle file
+5. 'prodlda_results.pkl' - ProdLDA model outputs saved as a pickle file

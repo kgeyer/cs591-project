@@ -1,0 +1,1 @@
+write application application use stuff create window sun graphic library render application update display fast enough use call update routine happen fast enough want update time second also appear run anything else update rate slow even idea thanks

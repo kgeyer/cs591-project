@@ -1,0 +1,7 @@
+This file contains descriptions of each python script.
+
+1. 'data.py' - functions related to coverting and preprocessing data
+2. 'nvlda.py' - implementation of the topic model known as both NVLDA and AVITM
+3. 'prodlda.py' - implementation of the topic model called ProdLDA
+4. 'results.py' - script that calculates the result such as coherence and perplexity
+1. __init__.py - turn collection of scripts into a functional Python module

@@ -1,0 +1,1 @@
+plan convert motif app pixel font unit set app resource file instead hard code program however word people try already reason place resource file still interpret pixel unit force people code font unit program somebody thanks joe

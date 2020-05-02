@@ -1,0 +1,1 @@
+question regard send null character across connection actual problem unix need null character set mark unfortunately know send ibm pc across wonder know keyboard send null character btw control shift work thanks

@@ -1,0 +1,1 @@
+try display int screen int cell red green blue get main null screen cell screen screen screen cell screen cell cell get get get get cell get get get get cell work brain inside

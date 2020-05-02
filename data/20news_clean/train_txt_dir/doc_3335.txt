@@ -1,0 +1,1 @@
+write like know set frame bit try use follow xlib code use completely wrong approach possible set yes colormap window create wrong look also might want try use colormap instead xlib colormap stuff probably easier use since use visual lose anything compare straight xlib

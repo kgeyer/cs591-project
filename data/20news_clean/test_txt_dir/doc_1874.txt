@@ -1,0 +1,1 @@
+run xterm motif unix base machine default shell shell run xterm get follow message first shell warning access thus job control shell run job control command like also run another xterm command line xterm launch additional xterm menu appreciate help problem get help way environment variable term set xterm personal library software

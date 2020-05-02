@@ -1,0 +1,1 @@
+microsoft windows device driver kit documentation state user must acquire microsoft windows software development kit contain windows tool build driver use application necessary also copy microsoft press programmer reference library book normally come microsoft development virtual device post brian
