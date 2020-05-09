@@ -2,10 +2,10 @@ Description of project scripts
 May 2, 2020
 
 Preliminaries
-1. developed on MacOS (v10.15.4)  with Python 3.7.7
+1. Developed on MacOS (v10.15.4) with Python 3.7.7
 2. For the most part, this package requires standard Python modules (most recent
    versions). It relies on some packages that might not come with a standard
-   Python install such as sklearn or pickle.
+   Python installation, such as sklearn or pickle.
 3. This code relies on tensorflow version 1.13.1. You can revert to this version
    of tensorflow using the following command:
   $ pip install tensorflow==1.13.1
