@@ -1,7 +1,7 @@
-Description of project scripts
+## Description of project contents
 May 2, 2020
 
-Preliminaries
+# Preliminaries
 1. Developed on MacOS (v10.15.4) with Python 3.7.7
 2. For the most part, this package requires standard Python modules (most recent
    versions). It relies on some packages that might not come with a standard
@@ -10,7 +10,7 @@ Preliminaries
    of tensorflow using the following command:
   $ pip install tensorflow==1.13.1
 
-Contents
+# Contents
 1. 'data' - directory containing the project data
 2. 'source' - directory containing Python scripts
 3. 'docs' - directory containing reports pertaining to the project
